@@ -1,4 +1,4 @@
-
+@switches
   Feature: API Demos Switches
     Background: Switch screen test
       Given App yuklensin
